@@ -1,0 +1,4 @@
+# Linkedlist
+# Education 🎓
+Datastructures
+
